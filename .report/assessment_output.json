@@ -3,14 +3,14 @@
         "version": "3.5.0",
         "report_json_url": "https://raw.githubusercontent.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas/main/.report/assessment_output.json",
         "report_permalink": "https://sqaaas.eosc-synergy.eu/full-assessment/report/https://raw.githubusercontent.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas/main/.report/assessment_output.json",
-        "timestamp": 1758035660.7188056
+        "timestamp": 1758035918.8917353
     },
     "repository": [
         {
             "url": "https://gitlab.a.incd.pt/jprm/webinar-demo-project.git",
             "name": "jprm/webinar-demo-project",
             "tag": "main",
-            "commit_id": "d3c727951a01216e2dfdd88735f76100dfa2ef8b",
+            "commit_id": "1d568139af4c9a8306a8f023924c57b964dba377",
             "is_main_repo": true,
             "badge_status": "no_badge"
         }
@@ -46,7 +46,7 @@
                                         "git rev-parse --is-inside-work-tree "
                                     ],
                                     "stdout_text": "true",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/34/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/34/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -98,7 +98,7 @@
                                         "find_doc_files.py --file_type all"
                                     ],
                                     "stdout_text": "{\"README\": [{\"file_name\": \"README.md\", \"size\": 400}], \"CODE_OF_CONDUCT\": [], \"CONTRIBUTING\": []}",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/43/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/43/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -149,7 +149,7 @@
                                         "find_doc_files.py --file_type all"
                                     ],
                                     "stdout_text": "{\"README\": [{\"file_name\": \"README.md\", \"size\": 400}], \"CODE_OF_CONDUCT\": [], \"CONTRIBUTING\": []}",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/43/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/43/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -201,7 +201,7 @@
                                         "find_doc_files.py --file_type all"
                                     ],
                                     "stdout_text": "{\"README\": [{\"file_name\": \"README.md\", \"size\": 400}], \"CODE_OF_CONDUCT\": [], \"CONTRIBUTING\": []}",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/43/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/43/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -250,7 +250,7 @@
                                         "git rev-parse --is-inside-work-tree "
                                     ],
                                     "stdout_text": "true",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/52/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/52/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -292,7 +292,7 @@
                                         "mdl --json  ."
                                     ],
                                     "stdout_text": "[{\"filename\":\"./README.md\",\"line\":8,\"rule\":\"MD013\",\"aliases\":[\"line-length\"],\"description\":\"Line length\",\"docs\":\"https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md#md013---line-length\"},{\"filename\":\"./README.md\",\"line\":10,\"rule\":\"MD047\",\"aliases\":[\"single-trailing-newline\"],\"description\":\"File should end with a single newline character\",\"docs\":\"https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md#md047---file-should-end-with-a-single-newline-character\"}]",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/61/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/61/log?consoleFull"
                                 },
                                 "level": "RECOMMENDED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -369,7 +369,7 @@
                                         "cffconvert --validate "
                                     ],
                                     "stdout_text": "Citation metadata are valid according to schema version 1.2.0.",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/79/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/79/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -420,8 +420,8 @@
                                     "stdout_command": [
                                         "bandit -f json --quiet  --confidence-level high --severity-level high --recursive  ."
                                     ],
-                                    "stdout_text": "{\n  \"errors\": [],\n  \"generated_at\": \"2025-09-16T15:12:33Z\",\n  \"metrics\": {\n    \"./app/main.py\": {\n      \"CONFIDENCE.HIGH\": 0,\n      \"CONFIDENCE.LOW\": 0,\n      \"CONFIDENCE.MEDIUM\": 0,\n      \"CONFIDENCE.UNDEFINED\": 0,\n      \"SEVERITY.HIGH\": 0,\n      \"SEVERITY.LOW\": 0,\n      \"SEVERITY.MEDIUM\": 0,\n      \"SEVERITY.UNDEFINED\": 0,\n      \"loc\": 13,\n      \"nosec\": 0,\n      \"skipped_tests\": 0\n    },\n    \"./app/vuln.py\": {\n      \"CONFIDENCE.HIGH\": 0,\n      \"CONFIDENCE.LOW\": 0,\n      \"CONFIDENCE.MEDIUM\": 0,\n      \"CONFIDENCE.UNDEFINED\": 0,\n      \"SEVERITY.HIGH\": 0,\n      \"SEVERITY.LOW\": 0,\n      \"SEVERITY.MEDIUM\": 0,\n      \"SEVERITY.UNDEFINED\": 0,\n      \"loc\": 7,\n      \"nosec\": 0,\n      \"skipped_tests\": 0\n    },\n    \"_totals\": {\n      \"CONFIDENCE.HIGH\": 0,\n      \"CONFIDENCE.LOW\": 0,\n      \"CONFIDENCE.MEDIUM\": 0,\n      \"CONFIDENCE.UNDEFINED\": 0,\n      \"SEVERITY.HIGH\": 0,\n      \"SEVERITY.LOW\": 0,\n      \"SEVERITY.MEDIUM\": 0,\n      \"SEVERITY.UNDEFINED\": 0,\n      \"loc\": 20,\n      \"nosec\": 0,\n      \"skipped_tests\": 0\n    }\n  },\n  \"results\": []\n}",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/88/log?consoleFull"
+                                    "stdout_text": "{\n  \"errors\": [],\n  \"generated_at\": \"2025-09-16T15:17:15Z\",\n  \"metrics\": {\n    \"./app/main.py\": {\n      \"CONFIDENCE.HIGH\": 1,\n      \"CONFIDENCE.LOW\": 0,\n      \"CONFIDENCE.MEDIUM\": 0,\n      \"CONFIDENCE.UNDEFINED\": 0,\n      \"SEVERITY.HIGH\": 0,\n      \"SEVERITY.LOW\": 0,\n      \"SEVERITY.MEDIUM\": 1,\n      \"SEVERITY.UNDEFINED\": 0,\n      \"loc\": 17,\n      \"nosec\": 0,\n      \"skipped_tests\": 0\n    },\n    \"./app/vuln.py\": {\n      \"CONFIDENCE.HIGH\": 0,\n      \"CONFIDENCE.LOW\": 0,\n      \"CONFIDENCE.MEDIUM\": 0,\n      \"CONFIDENCE.UNDEFINED\": 0,\n      \"SEVERITY.HIGH\": 0,\n      \"SEVERITY.LOW\": 0,\n      \"SEVERITY.MEDIUM\": 0,\n      \"SEVERITY.UNDEFINED\": 0,\n      \"loc\": 7,\n      \"nosec\": 0,\n      \"skipped_tests\": 0\n    },\n    \"_totals\": {\n      \"CONFIDENCE.HIGH\": 1,\n      \"CONFIDENCE.LOW\": 0,\n      \"CONFIDENCE.MEDIUM\": 0,\n      \"CONFIDENCE.UNDEFINED\": 0,\n      \"SEVERITY.HIGH\": 0,\n      \"SEVERITY.LOW\": 0,\n      \"SEVERITY.MEDIUM\": 1,\n      \"SEVERITY.UNDEFINED\": 0,\n      \"loc\": 24,\n      \"nosec\": 0,\n      \"skipped_tests\": 0\n    }\n  },\n  \"results\": []\n}",
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/88/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -433,18 +433,18 @@
                             },
                             "data_unstructured": {
                                 "errors": [],
-                                "generated_at": "2025-09-16T15:12:33Z",
+                                "generated_at": "2025-09-16T15:17:15Z",
                                 "metrics": {
                                     "./app/main.py": {
-                                        "CONFIDENCE.HIGH": 0,
+                                        "CONFIDENCE.HIGH": 1,
                                         "CONFIDENCE.LOW": 0,
                                         "CONFIDENCE.MEDIUM": 0,
                                         "CONFIDENCE.UNDEFINED": 0,
                                         "SEVERITY.HIGH": 0,
                                         "SEVERITY.LOW": 0,
-                                        "SEVERITY.MEDIUM": 0,
+                                        "SEVERITY.MEDIUM": 1,
                                         "SEVERITY.UNDEFINED": 0,
-                                        "loc": 13,
+                                        "loc": 17,
                                         "nosec": 0,
                                         "skipped_tests": 0
                                     },
@@ -462,15 +462,15 @@
                                         "skipped_tests": 0
                                     },
                                     "_totals": {
-                                        "CONFIDENCE.HIGH": 0,
+                                        "CONFIDENCE.HIGH": 1,
                                         "CONFIDENCE.LOW": 0,
                                         "CONFIDENCE.MEDIUM": 0,
                                         "CONFIDENCE.UNDEFINED": 0,
                                         "SEVERITY.HIGH": 0,
                                         "SEVERITY.LOW": 0,
-                                        "SEVERITY.MEDIUM": 0,
+                                        "SEVERITY.MEDIUM": 1,
                                         "SEVERITY.UNDEFINED": 0,
-                                        "loc": 20,
+                                        "loc": 24,
                                         "nosec": 0,
                                         "skipped_tests": 0
                                     }
@@ -517,8 +517,8 @@
                                     "stdout_command": [
                                         "flake8 ."
                                     ],
-                                    "stdout_text": "./app/main.py:6:1: E302 expected 2 blank lines, found 1\n./app/main.py:10:1: E302 expected 2 blank lines, found 1\n./app/main.py:13:1: E305 expected 2 blank lines after class or function definition, found 1\n./app/main.py:18:47: W292 no newline at end of file\n./app/vuln.py:1:1: F401 'flask.request' imported but unused\n./app/vuln.py:6:1: E265 block comment should start with '# '\n./app/vuln.py:7:1: E265 block comment should start with '# '\n./app/vuln.py:7:20: W291 trailing whitespace\n./app/vuln.py:11:1: E302 expected 2 blank lines, found 1\n./app/vuln.py:13:28: W292 no newline at end of file",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/97/log?consoleFull"
+                                    "stdout_text": "./app/main.py:6:1: E302 expected 2 blank lines, found 1\n./app/main.py:8:12: F821 undefined name 'request'\n./app/main.py:11:1: E302 expected 2 blank lines, found 1\n./app/main.py:15:1: E302 expected 2 blank lines, found 1\n./app/main.py:18:1: E305 expected 2 blank lines after class or function definition, found 1\n./app/main.py:23:47: W292 no newline at end of file\n./app/vuln.py:1:1: F401 'flask.request' imported but unused\n./app/vuln.py:6:1: E265 block comment should start with '# '\n./app/vuln.py:7:1: E265 block comment should start with '# '\n./app/vuln.py:7:20: W291 trailing whitespace\n./app/vuln.py:11:1: E302 expected 2 blank lines, found 1\n./app/vuln.py:13:28: W292 no newline at end of file",
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/97/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -528,7 +528,7 @@
                                 "version": "v4.0",
                                 "url": "https://github.com/indigo-dc/sqa-baseline/releases/tag/v4.0"
                             },
-                            "data_unstructured": "./app/main.py:6:1: E302 expected 2 blank lines, found 1\n./app/main.py:10:1: E302 expected 2 blank lines, found 1\n./app/main.py:13:1: E305 expected 2 blank lines after class or function definition, found 1\n./app/main.py:18:47: W292 no newline at end of file\n./app/vuln.py:1:1: F401 'flask.request' imported but unused\n./app/vuln.py:6:1: E265 block comment should start with '# '\n./app/vuln.py:7:1: E265 block comment should start with '# '\n./app/vuln.py:7:20: W291 trailing whitespace\n./app/vuln.py:11:1: E302 expected 2 blank lines, found 1\n./app/vuln.py:13:28: W292 no newline at end of file"
+                            "data_unstructured": "./app/main.py:6:1: E302 expected 2 blank lines, found 1\n./app/main.py:8:12: F821 undefined name 'request'\n./app/main.py:11:1: E302 expected 2 blank lines, found 1\n./app/main.py:15:1: E302 expected 2 blank lines, found 1\n./app/main.py:18:1: E305 expected 2 blank lines after class or function definition, found 1\n./app/main.py:23:47: W292 no newline at end of file\n./app/vuln.py:1:1: F401 'flask.request' imported but unused\n./app/vuln.py:6:1: E265 block comment should start with '# '\n./app/vuln.py:7:1: E265 block comment should start with '# '\n./app/vuln.py:7:20: W291 trailing whitespace\n./app/vuln.py:11:1: E302 expected 2 blank lines, found 1\n./app/vuln.py:13:28: W292 no newline at end of file"
                         },
                         {
                             "valid": true,
@@ -552,7 +552,7 @@
                                         "hadolint Dockerfile --failure-threshold error"
                                     ],
                                     "stdout_text": "",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/106/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/106/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -605,7 +605,7 @@
                                         "pytest  --json-report  --json-report-indent 4"
                                     ],
                                     "stdout_text": "============================= test session starts ==============================\nplatform linux -- Python 3.9.17, pytest-7.1.3, pluggy-1.2.0\nrootdir: /sqaaas-build/gitlab.a.incd.pt/jprm/webinar-demo-project\nplugins: metadata-3.0.0, json-report-1.5.0\ncollected 0 items\n\n--------------------------------- JSON report ----------------------------------\nreport saved to: .report.json\n============================ no tests ran in 0.01s =============================",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/115/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/115/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -658,7 +658,7 @@
                                         "get_git_tags.py"
                                     ],
                                     "stdout_text": "[]",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/124/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/124/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -701,7 +701,7 @@
                                         "get_git_tags.py"
                                     ],
                                     "stdout_text": "[]",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/124/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/124/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
@@ -744,7 +744,7 @@
                                         "get_git_tags.py"
                                     ],
                                     "stdout_text": "[]",
-                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/39/execution/node/124/log?consoleFull"
+                                    "url": "https://jenkins.eosc-synergy.eu/job/eosc-synergy-org/job/webinar-demo-project.git.assess.sqaaas/job/main/40/execution/node/124/log?consoleFull"
                                 },
                                 "level": "REQUIRED",
                                 "build_repo": "https://github.com/eosc-synergy/webinar-demo-project.git.assess.sqaaas"
