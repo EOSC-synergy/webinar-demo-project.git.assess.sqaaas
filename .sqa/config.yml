@@ -15,60 +15,60 @@ sqa_criteria:
     repos:
       gitlab.a.incd.pt/jprm/webinar-demo-project git:
         commands:
-        - /usr/bin/env sh .sqa/script.thirsty-orchid-chameleon.sh
-        container: qc.acc_flabby-chartreuse-turkey
+        - /usr/bin/env sh .sqa/script.chewy-peach-wolverine.sh
+        container: qc.acc_sleazy-violet-buzzard
   QC.Doc:
     repos:
       gitlab.a.incd.pt/jprm/webinar-demo-project find_doc_files.py:
         commands:
-        - /usr/bin/env sh .sqa/script.sloppy-tan-chameleon.sh
-        container: qc.doc_fuzzy-amethyst-gerbil
+        - /usr/bin/env sh .sqa/script.ready-rust-mongoose.sh
+        container: qc.doc_sleepy-pumpkin-cow
       gitlab.a.incd.pt/jprm/webinar-demo-project git:
         commands:
-        - /usr/bin/env sh .sqa/script.sloppy-puce-javanese.sh
-        container: qc.doc_clammy-lime-rabbit
+        - /usr/bin/env sh .sqa/script.chewy-wisteria-lionfish.sh
+        container: qc.doc_skinny-black-bombay
       gitlab.a.incd.pt/jprm/webinar-demo-project markdownlint:
         commands:
-        - /usr/bin/env sh .sqa/script.snappy-khaki-crab.sh
-        container: qc.doc_dorky-fuchsia-squirt
+        - /usr/bin/env sh .sqa/script.fuzzy-rose-snail.sh
+        container: qc.doc_squeaky-cinnabar-gibbon
   QC.Lic:
     repos:
       gitlab.a.incd.pt/jprm/webinar-demo-project licensee:
         commands:
-        - /usr/bin/env sh .sqa/script.ready-apricot-moorhen.sh
-        container: qc.lic_scaly-smalt-bird
+        - /usr/bin/env sh .sqa/script.chummy-blue-hound.sh
+        container: qc.lic_lovely-smalt-newfoundland
   QC.Met:
     repos:
       gitlab.a.incd.pt/jprm/webinar-demo-project cff-converter-python:
         commands:
-        - /usr/bin/env sh .sqa/script.shabby-peach-gopher.sh
-        container: qc.met_randy-rust-spitz
+        - /usr/bin/env sh .sqa/script.freaky-russet-chimpanzee.sh
+        container: qc.met_skimpy-rose-lemming
   QC.Sec:
     repos:
       gitlab.a.incd.pt/jprm/webinar-demo-project bandit:
         commands:
-        - /usr/bin/env sh .sqa/script.lumpy-silver-beetle.sh
-        container: qc.sec_skinny-peach-boar
+        - /usr/bin/env sh .sqa/script.whiny-aqua-schnauzer.sh
+        container: qc.sec_bluesy-orange-budgerigar
   QC.Sty:
     repos:
       gitlab.a.incd.pt/jprm/webinar-demo-project flake8:
         commands:
-        - /usr/bin/env sh .sqa/script.jumpy-black-chin.sh
-        container: qc.sty_baggy-teal-dragon
+        - /usr/bin/env sh .sqa/script.wimpy-vermilion-spaniel.sh
+        container: qc.sty_pokey-salmon-setter
       gitlab.a.incd.pt/jprm/webinar-demo-project hadolint:
         commands:
-        - /usr/bin/env sh .sqa/script.nerdy-salmon-badger.sh
-        container: qc.sty_greasy-charcoal-indri
+        - /usr/bin/env sh .sqa/script.skinny-khaki-wolfhound.sh
+        container: qc.sty_droopy-dandelion-monster
   QC.Uni:
     repos:
       gitlab.a.incd.pt/jprm/webinar-demo-project pytest:
         commands:
-        - /usr/bin/env sh .sqa/script.geeky-brass-urchin.sh
-        container: qc.uni_silly-zucchini-sloth
+        - /usr/bin/env sh .sqa/script.hilly-ivory-falcon.sh
+        container: qc.uni_goopy-orange-gar
   QC.Ver:
     repos:
       gitlab.a.incd.pt/jprm/webinar-demo-project get_git_tags.py:
         commands:
-        - /usr/bin/env sh .sqa/script.scaly-red-meerkat.sh
-        container: qc.ver_snazzy-cinnamon-dog
+        - /usr/bin/env sh .sqa/script.woozy-bistre-harrier.sh
+        container: qc.ver_pretty-seashell-beagle
 timeout: 5400
