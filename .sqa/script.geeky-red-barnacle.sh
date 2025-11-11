@@ -5,5 +5,5 @@
 
 (
 cd gitlab.a.incd.pt/jprm/webinar-demo-project &&
-    hadolint Dockerfile --failure-threshold error
+    hadolint Dockerfile folder_test/Dockerfile --failure-threshold error
 )
